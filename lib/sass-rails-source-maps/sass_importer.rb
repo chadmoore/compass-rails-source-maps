@@ -1,4 +1,4 @@
-module CompassRailsSourceMaps
+module SassRailsSourceMaps
   class SassImporter < Sass::Rails::SassImporter
 
     def public_url(uri, sourcemap_directory = nil)
